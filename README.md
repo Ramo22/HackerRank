@@ -1,2 +1,1 @@
-switch problem on HackerRank
-https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
+Goal to solve 100 problem on HackerRank isa
